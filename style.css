@@ -1,0 +1,11 @@
+body{
+	background-color: #CBCBCB;
+	height: 100vh;
+}
+
+
+.container.content{
+	background-color: white;
+	height: 100%;
+	margin-top: 40px;
+}
